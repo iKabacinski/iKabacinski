@@ -12,6 +12,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+- Projects:
+[https://github.com/iKabacinski/ngx-cypress-test](ngx-cypress-tests): The project contains basic E2E tests in Cypress, mostly simple interactions with web elements with custom commands, and very basic GitHub action pipeline run while pushing new changes on main branch 
+
 <!--
 **iKabacinski/iKabacinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
